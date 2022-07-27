@@ -8,11 +8,12 @@
 
 
 /**
- * Modulos *
+ * Core Modules *
 **/
-// fs -> Irá ler textos dentro do arquivo, adicionar textos...
-
-// path -> Ler nome do arquivo, tipo do arquivo...
+// http -> Módulo para criar servidores http
+// path -> Extrarir informações de paths(caminhos) de arquivos
+// fs -> file system, leitura e escrita de arquivos
+// url -> Módulo para trabalhar com urls
 
 /**
  * Exemplos onde encontrar *
